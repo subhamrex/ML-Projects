@@ -1,2 +1,2 @@
 # ML-Projects
-1st - Diamond Price Prediction
+1 - Diamond Price Prediction
