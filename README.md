@@ -4,3 +4,5 @@
 2 - Diabetes Prediction
 
 3 - Cancer Prediction Using ANN
+
+4 - MNIST Using CNN
