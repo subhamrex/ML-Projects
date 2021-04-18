@@ -8,3 +8,5 @@
 4 - MNIST Using CNN
 
 5 - Red Wine Quality
+
+6 - Bank Marketing Prediction
