@@ -10,3 +10,5 @@
 5 - Red Wine Quality
 
 6 - Bank Marketing Prediction
+
+7 - House Price Prediction
