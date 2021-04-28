@@ -12,3 +12,5 @@
 6 - Bank Marketing Prediction
 
 7 - House Price Prediction
+
+8 - Weather Forecasting Using neuralprophet 
